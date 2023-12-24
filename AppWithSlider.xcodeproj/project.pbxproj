@@ -11,6 +11,7 @@
 		B0446C292B380819007AF074 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0446C282B380819007AF074 /* ContentView.swift */; };
 		B0446C2B2B38081A007AF074 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0446C2A2B38081A007AF074 /* Assets.xcassets */; };
 		B0446C2E2B38081A007AF074 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0446C2D2B38081A007AF074 /* Preview Assets.xcassets */; };
+		B0446C352B380A31007AF074 /* SliderAndUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0446C342B380A31007AF074 /* SliderAndUIKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B0446C282B380819007AF074 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B0446C2A2B38081A007AF074 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0446C2D2B38081A007AF074 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0446C342B380A31007AF074 /* SliderAndUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderAndUIKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B0446C262B380819007AF074 /* AppWithSliderApp.swift */,
 				B0446C282B380819007AF074 /* ContentView.swift */,
+				B0446C342B380A31007AF074 /* SliderAndUIKit.swift */,
 				B0446C2A2B38081A007AF074 /* Assets.xcassets */,
 				B0446C2C2B38081A007AF074 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0446C292B380819007AF074 /* ContentView.swift in Sources */,
+				B0446C352B380A31007AF074 /* SliderAndUIKit.swift in Sources */,
 				B0446C272B380819007AF074 /* AppWithSliderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
